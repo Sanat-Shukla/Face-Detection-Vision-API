@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Face Landmark</string>
+    <string name="low_storage_error">Low memory on device.</string>
+</resources>
